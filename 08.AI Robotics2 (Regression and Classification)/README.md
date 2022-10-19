@@ -6,7 +6,7 @@
 # How to participate in NVIDIA DLI program?
  - Sign up NVIDIA DLI (https://www.nvidia.com/en-us/training/)
  - Get access the url (https://courses.nvidia.com/dli-event/)
- - The Event Code will be anounced soon (Event Code: ****-****-**)
+ - The Event Code will be anounced soon (Event Code: HANBAT_NANO_AMBASSADOR_OC22)
 
 # Certification of the NVIDIA Jeson Nano Basic course
  - The sample file is attached (please check)
