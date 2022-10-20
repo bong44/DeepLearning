@@ -13,3 +13,6 @@
 
 # References for the final project
  - https://developer.nvidia.com/embedded/community/jetson-projects
+
+# Jetson Robot github URL
+ -  https://github.com/NVIDIA-AI-IOT/jetbot
