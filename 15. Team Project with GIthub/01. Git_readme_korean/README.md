@@ -7,6 +7,14 @@
 
 한 두 문단으로 프로젝트 소개 글을 작성합니다.
 
+```[![이미지 텍스트](스크린샷 이미지)](유투브링크)```
+
+깃헙의 LFS를 설명해 놓은 동영상을 링크 
+
+``` [![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/uLR1RNqJ1Mw?t=0s) ```
+[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/uLR1RNqJ1Mw?t=0s) 
+
+
 ![](../header.png)
 
 ## 설치 방법
