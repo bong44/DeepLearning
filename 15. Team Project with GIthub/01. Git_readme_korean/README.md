@@ -9,10 +9,21 @@
 
 ```[![이미지 텍스트](스크린샷 이미지)](유투브링크)```
 
+
+gif로 움짤 올리기
+
+```[![이미지 텍스트](gif 이미지)]```
+![dogs](https://user-images.githubusercontent.com/4470398/204932532-192c42ee-d158-4197-91f6-5fa0527f676e.gif)
+
+
+
 깃헙의 LFS를 설명해 놓은 동영상을 링크 
 
 ``` [![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/uLR1RNqJ1Mw?t=0s) ```
 [![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/uLR1RNqJ1Mw?t=0s) 
+
+
+
 
 
 ![](../header.png)
@@ -46,6 +57,17 @@ make install
 npm test
 ```
 
+## 코드블럭 설명
+
+```c
+//```뒤에 자신이 원하는 언어 (생략 가능)
+#include <stdio.h>
+int main(void) {
+  printf("Hello World!");
+}
+```
+
+
 ## 업데이트 내역
 
 * 0.2.1
@@ -76,6 +98,29 @@ XYZ 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할
 3. (`git commit -am 'Add some fooBar'`) 명령어로 커밋하세요.
 4. (`git push origin feature/fooBar`) 명령어로 브랜치에 푸시하세요. 
 5. 풀리퀘스트를 보내주세요.
+
+## 그외의 팁
+
+취소선
+~~취소선~~
+
+
+인용글
+> 인용글 1
+> > 인용글 2
+> > > 인용글 3
+
+기울임
+*기울임 꼴*
+
+_기울임 꼴_
+
+
+굵은글씨
+
+**굵은 글씨**
+
+__굵은 글씨__
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
