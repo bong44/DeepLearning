@@ -13,6 +13,7 @@
 gif로 움짤 올리기
 
 ```[![이미지 텍스트](gif 이미지)]```
+<img src="[https://user-images.githubusercontent.com/51365114/119627750-716f3100-be47-11eb-8e83-686b23c2c161.png](https://user-images.githubusercontent.com/4470398/204947699-4feb33cd-ab75-41f6-bedd-10b22eb2e961.gif)  width="600" height="400"/>
 ![demo4](https://user-images.githubusercontent.com/4470398/204947699-4feb33cd-ab75-41f6-bedd-10b22eb2e961.gif)
 
 
